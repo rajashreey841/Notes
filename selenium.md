@@ -74,7 +74,7 @@ from selenium import webdriver
 driver = webdriver.Chrome('/path/to/chromedriver')
 ```
 
-# Basic Concept
+# Basic Concepts
 
 Selenium WebDriver is used to automate browser actions. Understanding its core concepts helps in writing effective automation scripts.
 
@@ -105,7 +105,9 @@ driver.quit()  # Closes the browser
     - send_keys() – Enter text in input fields.
     - text – Get text of the element.
 - Example:
+```python
 element = driver.find_element(By.ID, "username").send_keys("Raju")
+```
 3. **By**
 - Used to local elements on a web page.
 - Common strategies:
@@ -114,8 +116,10 @@ element = driver.find_element(By.ID, "username").send_keys("Raju")
     - By.XPATH
     - By.CSS_SELECTOR
 - Example: 
+```python
 from selenium.webdriver.common.by import By  
 element = driver.find_element(By.ID,"Username")
+```
 4. **WebdriverWait**
 - Used for explicit waits to handle dynamic web elements.
 - Waits until a condition is met or a timeout occurs.
