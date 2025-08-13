@@ -11,10 +11,7 @@
 ## Introduction to Selenium
 
 Selenium: Slenium is an open-source framework for automating web browsers. It supports multiple programming language and browsers.
-<br> - Web application testing</br>
-<br> - Web scraping</br>
-<br> - Browser automation</br>
-<br> - Regression testing</br>
+<br> - Web application testing</br><br> - Web scraping</br><br> - Browser automation</br><br> - Regression testing</br>
 
 ### Selenium Components
 
