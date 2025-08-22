@@ -8,6 +8,7 @@
 - [Introduction to Selenium ](#Introduction-to-selenium)
 - [Setup and Installation](#setup-and-installation)
 - [Basic Concepts](#basic-concepts)
+- [Locating Elements](#locating-elements)
 
 ## Introduction to Selenium
 
@@ -142,3 +143,4 @@ from selenium.webdriver import ActionChains
 actions = ActionChains(driver)
 actions.move_to_element(element).click().perform()
 ```
+# Locating Elements
