@@ -63,7 +63,7 @@ Structured Query Language (SQL) is the standard language used to interact with r
 
 ---
 
-#### 2. DML (Data Manipulation Language):A relational database can be updated with new data using data manipulation language (DML) statements
+#### 2. DML (Data Manipulation Language): A relational database can be updated with new data using data manipulation language (DML) statements
 
 | **Command** | **Description**                        | **Example Query** |
 |-------------|----------------------------------------|-------------------|
@@ -74,7 +74,7 @@ Structured Query Language (SQL) is the standard language used to interact with r
 
 ---
 
-#### 3. DCL (Data Control Language):DCL commands manage user access to the database by granting or revoking permissions.
+#### 3. DCL (Data Control Language): DCL commands manage user access to the database by granting or revoking permissions.
 
 | **Command** | **Description**                        | **Example Query** |
 |-------------|----------------------------------------|-------------------|
@@ -83,7 +83,7 @@ Structured Query Language (SQL) is the standard language used to interact with r
 
 ---
 
-#### 4. TCL (Transaction Control Language):TCL commands manage transactions in relational databases, ensuring data integrity and consistency. These commands are used to commit changes or roll back operations in case of errors.
+#### 4. TCL (Transaction Control Language): TCL commands manage transactions in relational databases, ensuring data integrity and consistency. These commands are used to commit changes or roll back operations in case of errors.
 
 | **Command**     | **Description**                          | **Example Query** |
 |------------------|------------------------------------------|-------------------|
@@ -94,7 +94,7 @@ Structured Query Language (SQL) is the standard language used to interact with r
 
 ---
 
-## 5. DQL- Data Query Language
+#### 5. DQL- Data Query Language: DQL is used to fetch data from the database
 
 | **Clause / Command** | **Description**                        | **Example Query** |
 |----------------------|----------------------------------------|-------------------|
